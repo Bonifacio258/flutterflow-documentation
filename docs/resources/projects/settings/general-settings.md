@@ -1,6 +1,6 @@
 ---
 slug: general-settings
-title: General Settings
+title:AgroLink+
 tags: [Project, Assets]
 keywords: [project name, package name, asset, download settings, assets, splash screen, launcher icon, adaptive icon]
 description: Learn how to configure general settings for your FlutterFlow app.
