@@ -19,7 +19,7 @@
     "@docsearch/css": "^3.6.1",
     "@docsearch/js": "^3.6.1",
     "@docusaurus/core": "^3.4.0",
-    "@docusaurus/plugin-content-docs": "^3.4.0",
+    "@docusaurus/plugin-content-docs": "^3.7.0",
     "@docusaurus/plugin-google-gtag": "^3.4.0",
     "@docusaurus/preset-classic": "^3.4.0",
     "@mdx-js/react": "^3.0.0",
