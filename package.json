@@ -16,7 +16,7 @@
     "dev": "docusaurus start"
   },
   "dependencies": {
-    "@docsearch/css": "^3.6.1",
+    "@docsearch/css": "^3.9.0",
     "@docsearch/js": "^3.6.1",
     "@docusaurus/core": "^3.4.0",
     "@docusaurus/plugin-content-docs": "^3.4.0",
